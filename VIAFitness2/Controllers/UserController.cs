@@ -15,8 +15,11 @@ namespace VIAFitness2.Controllers
             return new string[] { "value1", "value2" };
         }
        
+<<<<<<< HEAD
 
         //AS
+=======
+>>>>>>> de7c4ca54ce03f63aa1ec28118876f315050f972
         // GET: api/User/5
         public string Get(int id)
         {
